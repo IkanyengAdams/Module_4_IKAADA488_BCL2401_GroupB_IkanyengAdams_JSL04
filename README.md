@@ -28,14 +28,4 @@ This utility provides various functions related to Monster Energy drinks, includ
 - It advises whether it's a good idea to have a Monster Energy drink based on the current hour.
 - If it's between 7am and midnight, it prints "Unleash the beast!"; otherwise, it prints "Better stick to water."
 
-## Usage
 
-1. Clone the repository.
-2. Open the project directory in your code editor.
-3. Modify the variables in the code to test different scenarios.
-4. Run the code and observe the output.
-
-## Note
-
-- This README provides an overview of the functionality provided by the utility.
-- Feel free to customize and expand upon the code and README as needed for your specific use case.
