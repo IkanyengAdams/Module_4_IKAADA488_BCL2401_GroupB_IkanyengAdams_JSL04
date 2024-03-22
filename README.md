@@ -1,4 +1,4 @@
-# Monster Energy Drink Utility
+# Monster ternary operator
 
 This utility provides various functions related to Monster Energy drinks, including flavor selection, stock check, workout intensity assessment, temperature suitability, and late-night coding session advisories.
 
